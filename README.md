@@ -13,19 +13,3 @@ Values.Conditional formatting is a feature in Excel that let us apply formatting
 Select the cells you would like to format.
 Select the Home tab.
 Locate the Styles group.
-Click the Conditional Formatting command. A menu will appear with your formatting options.To create a conditional formatting rule:
-Select the desired cells for the conditional formatting rule.
-From the Home tab, click the Conditional Formatting command. ... 
-Hover the mouse over the desired conditional formatting type, then select the desired rule from the menu that appears. ... 
-A dialog box will appear.Answer. Conditional formatting allows you to automatically apply formatting—such as colors, icons, and data bars—to one or more cells based on the cell value.26-Jul-2019You can use a template to save the all of the conditional formatting rules.
-Start with a blank spreadsheet.
-Add any content you want to appear in new spreadsheet.
-Add the conditional formatting rules you want in each new spreadsheet.
-Use Save As and choose Excel Template.How to Use Conditional Formatting in Excel
-Select a range.
-Go to the Home section, and click Conditional Formatting.
-Select the rule (and, if you want, customize the condition).
-Select the formatting style.
-Click OK.Conditional formatting can help make patterns and trends in your data more apparent. To use it, you create rules that determine the format of cells based on their values, such as the following monthly temperature data with cell colors tied to cell values. 
-
-Conditional formatting example 
